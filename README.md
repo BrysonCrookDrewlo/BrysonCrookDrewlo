@@ -23,7 +23,6 @@ I specialize in building **automation tools, data-driven dashboards, and backend
 ---
 
 ## 📫 Connect With Me  
-📧 **Email:** bcrook@drewloholdings.com  
-🔗 **LinkedIn:** [linkedin.com/in/YOUR-LINK](#)  
+📧 **Email:** bcrook@drewloholdings.com   
 
 ---
