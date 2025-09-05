@@ -81,4 +81,4 @@ I design and build **automation workflows, reporting pipelines, and integrations
 ## 📫 Connect With Me
 
 📧 **Email**: [bcrook@drewloholdings.com](mailto:bcrook@drewloholdings.com)
-💼 **LinkedIn**: *(Add your LinkedIn profile link here)*
+💼 **LinkedIn**: *...*
