@@ -1,28 +1,84 @@
-# 👋 Hi, I'm Bryson Crook  
+# 👋 Hi, I'm Bryson Crook
 
-💻 **Jr Software Engineer @ Drewlo Holdings (London, ON)**  
-🎓 **B.Eng. Software Engineering | University of Western Ontario | Class of 2025**  
+![Profile Banner](assets/your-banner.png) <!-- Use the banner we made -->
 
-I specialize in building **automation tools, data-driven dashboards, and backend integrations** that support large-scale property management and construction operations. At Drewlo Holdings, my work focuses on streamlining workflows and leveraging technology to improve efficiency across teams.  
+<!-- Social & Info Badges -->
 
----
-
-## 🛠️ Skills & Tools  
-- **Languages:** Python | JavaScript/TypeScript | Java | SQL  
-- **Frameworks:** React | Node.js | Express  
-- **Tools & Cloud:** Docker | Git/GitHub | Azure | GCP  
-- **Focus Areas:** Process Automation | API Development | Data Visualization | Cloud Deployment  
+![GitHub followers](https://img.shields.io/github/followers/BrysonCrookDrewlo?style=social)
+![GitHub stars](https://img.shields.io/github/stars/BrysonCrookDrewlo?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=BrysonCrookDrewlo\&color=blue)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/BrysonCrookDrewlo/BrysonCrookDrewlo)
+![Repo size](https://img.shields.io/github/repo-size/BrysonCrookDrewlo/BrysonCrookDrewlo)
 
 ---
 
-## 🌱 Current Focus  
-- Expanding internal tools to support **property management and operational insights**.  
-- Developing **automated reporting pipelines** to reduce manual work.  
-- Enhancing **cloud-based solutions** for scalability and reliability.  
+<!-- Typing Animation -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue\&width=600\&lines=Jr+Software+Engineer;Automation+%7C+Data+Pipelines+%7C+Cloud;Always+Learning+%26+Building;Turning+Data+Into+Insights;Making+Workflows+Smarter)](https://git.io/typing-svg)
+
+💻 **Jr Software Engineer @ Drewlo Holdings (London, ON)**
+🎓 **B.Eng. Software Engineering** — University of Western Ontario (Class of 2025)
+
+I design and build **automation workflows, reporting pipelines, and integrations** that streamline operations in **property management and construction**. My focus is on **turning complex data into actionable insights** and reducing manual work through modern software solutions.
 
 ---
 
-## 📫 Connect With Me  
-📧 **Email:** bcrook@drewloholdings.com   
+## 🛠️ Tech Stack
+
+**Languages**
+`Python` · `JavaScript/TypeScript` · `Java` · `SQL`
+
+**Frameworks & Libraries**
+`React` · `Node.js` · `Express`
+
+**Tools & Cloud**
+`Docker` · `Git/GitHub` · `Azure` · `GCP`
+
+**Focus Areas**
+`Process Automation` · `API Development` · `Data Visualization` · `Cloud Deployment`
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+</p>  
 
 ---
+
+## 📅 Career Timeline
+
+📍 **2025** — Jr Software Engineer @ Drewlo Holdings
+🎓 **2025** — Graduating B.Eng. Software Engineering, UWO
+
+---
+
+## 📊 GitHub Dashboard
+
+![Bryson's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrysonCrookDrewlo\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrysonCrookDrewlo\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrysonCrookDrewlo\&theme=tokyonight)
+
+---
+
+## 🏅 Trophies & Contributions
+
+![trophy](https://github-profile-trophy.vercel.app/?username=BrysonCrookDrewlo\&theme=onestar\&row=1\&no-frame=true\&margin-w=15)
+
+![Bryson's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrysonCrookDrewlo\&theme=github)
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email**: [bcrook@drewloholdings.com](mailto:bcrook@drewloholdings.com)
+💼 **LinkedIn**: *(Add your LinkedIn profile link here)*
