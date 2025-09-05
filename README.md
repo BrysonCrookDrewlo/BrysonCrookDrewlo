@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bryson Crook  
 
-💻 **Software Engineer @ Drewlo Holdings (London, ON)**  
+💻 **Jr Software Engineer @ Drewlo Holdings (London, ON)**  
 🎓 **B.Eng. Software Engineering | University of Western Ontario | Class of 2025**  
 
 I specialize in building **automation tools, data-driven dashboards, and backend integrations** that support large-scale property management and construction operations. At Drewlo Holdings, my work focuses on streamlining workflows and leveraging technology to improve efficiency across teams.  
