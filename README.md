@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Bryson Crook
-
 ![Profile Banner](assets/ReadMe_Banner.png) <!-- Use the banner we made -->
 
 <!-- Social & Info Badges -->
