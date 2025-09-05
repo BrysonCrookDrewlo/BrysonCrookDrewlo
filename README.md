@@ -5,7 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/BrysonCrookDrewlo?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/BrysonCrookDrewlo?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=BrysonCrookDrewlo\&color=blue)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BrysonCrookDrewlo/BrysonCrookDrewlo)
 ![Repo size](https://img.shields.io/github/repo-size/BrysonCrookDrewlo/BrysonCrookDrewlo)
 
