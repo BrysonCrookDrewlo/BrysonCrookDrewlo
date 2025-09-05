@@ -79,3 +79,7 @@ I design and build **automation workflows, reporting pipelines, and integrations
 
 📧 **Email**: [bcrook@drewloholdings.com](mailto:bcrook@drewloholdings.com)
 💼 **LinkedIn**: *...*
+
+![Snake light](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake dark](https://raw.githubusercontent.com/BrysonCrookDrewlo/BrysonCrookDrewlo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
