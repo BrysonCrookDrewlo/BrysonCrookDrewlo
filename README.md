@@ -1,4 +1,4 @@
-![Profile Banner](assets/ReadMe_Banner.png)
+![Profile Banner](assets/banner.png)
 
 <p align="center">
   <a href="mailto:bcrook@drewloholdings.com">
