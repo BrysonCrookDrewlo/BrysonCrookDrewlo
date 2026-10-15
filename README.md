@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-narrow-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/banner-narrow-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Bryson Crook, Software Engineer at Drewlo Holdings. Focus: AI, data and automation. B.Eng., Western University, 2025." src="assets/banner-light.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-narrow-dark.svg?v=3">
+  <source media="(max-width: 600px)" srcset="assets/banner-narrow-light.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=3">
+  <img alt="Bryson Crook, Software Engineer at Drewlo Holdings. Focus: AI, data and automation. B.Eng., Western University, 2025." src="assets/banner-light.svg?v=3" width="100%">
 </picture>
 
 I build the internal software that runs day-to-day operations at **Drewlo Holdings**, a property management and construction company. My work spans self-hosted AI, internal platforms, and the data and automation behind the business. Most of it lives in private repositories.
@@ -10,10 +10,10 @@ I build the internal software that runs day-to-day operations at **Drewlo Holdin
 ## What I work on
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/cards-narrow-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/cards-narrow-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg">
-  <img alt="Self-hosted AI: speech recognition, language models and assistant tools for everyday work. Internal platforms: containerized services that connect business systems through authenticated APIs. Data and reporting: pipelines and dashboards for cost allocation and day-to-day reporting. Workflow automation: email triage, routing and task coordination, with people making the calls. Full-stack apps: web and mobile apps for residents and staff, from database to interface. Reliability and security: authentication, monitoring and hardened deployments for internal systems." src="assets/cards-light.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/cards-narrow-dark.svg?v=3">
+  <source media="(max-width: 600px)" srcset="assets/cards-narrow-light.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cards-dark.svg?v=3">
+  <img alt="Self-hosted AI: speech recognition, language models and assistant tools for everyday work. Internal platforms: containerized services that connect business systems through authenticated APIs. Data and reporting: pipelines and dashboards for cost allocation and day-to-day reporting. Workflow automation: email triage, routing and task coordination, with people making the calls. Full-stack apps: web and mobile apps for residents and staff, from database to interface. Reliability and security: authentication, monitoring and hardened deployments for internal systems." src="assets/cards-light.svg?v=3" width="100%">
 </picture>
 
 ## How I work
@@ -25,10 +25,10 @@ I build the internal software that runs day-to-day operations at **Drewlo Holdin
 ## Stack
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-narrow-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/stack-narrow-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Languages: Python, TypeScript, SQL. Backend and data: FastAPI, Node.js, SQL Server, PostgreSQL. Frontend: React, Next.js, Tailwind CSS. Infrastructure: Docker, Kubernetes, Azure, Linux." src="assets/stack-light.svg" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-narrow-dark.svg?v=3">
+  <source media="(max-width: 600px)" srcset="assets/stack-narrow-light.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=3">
+  <img alt="Languages: Python, TypeScript, SQL. Backend and data: FastAPI, Node.js, SQL Server, PostgreSQL. Frontend: React, Next.js, Tailwind CSS. Infrastructure: Docker, Kubernetes, Azure, Linux." src="assets/stack-light.svg?v=3" width="100%">
 </picture>
 
 ---
