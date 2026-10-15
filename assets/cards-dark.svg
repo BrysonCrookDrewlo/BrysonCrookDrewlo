@@ -24,81 +24,81 @@
   <g>
     <rect x="0.5" y="0.5" width="631.0" height="186" rx="14" fill="#151b23" stroke="#3d444d"/>
     <rect x="0.5" y="0.5" width="631.0" height="186" rx="14" fill="url(#grid)" mask="url(#gm)"/>
-    <rect x="30.0" y="30" width="58" height="58" rx="12" fill="#4493f8" fill-opacity="0.14"/>
-    <g transform="translate(43.0 43.0) scale(1.3333333333333333)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30.0" y="30" width="42" height="42" rx="10" fill="#4493f8" fill-opacity="0.14"/>
+    <g transform="translate(39.0 39.0) scale(1.0)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
         <path class="i i0" pathLength="1" d="M7 5h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2z"/>
         <path class="i i0" pathLength="1" d="M10 10h4v4h-4z"/>
         <path class="i i0" pathLength="1" d="M9 2v3M15 2v3M9 19v3M15 19v3M2 9h3M2 15h3M19 9h3M19 15h3"/>
     </g>
-    <text class="t" x="104.0" y="69.5" font-size="30" font-weight="600" fill="#f0f6fc">Self-hosted AI</text>
+    <text class="t" x="88.0" y="61.5" font-size="30" font-weight="600" fill="#f0f6fc">Self-hosted AI</text>
     <text class="t" x="30.0" y="128" font-size="25" fill="#9198a1">Speech recognition, language models and</text>
     <text class="t" x="30.0" y="161" font-size="25" fill="#9198a1">assistant tools for everyday work.</text>
   </g>
   <g>
     <rect x="648.5" y="0.5" width="631.0" height="186" rx="14" fill="#151b23" stroke="#3d444d"/>
     <rect x="648.5" y="0.5" width="631.0" height="186" rx="14" fill="url(#grid)" mask="url(#gm)"/>
-    <rect x="678.0" y="30" width="58" height="58" rx="12" fill="#4493f8" fill-opacity="0.14"/>
-    <g transform="translate(691.0 43.0) scale(1.3333333333333333)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="678.0" y="30" width="42" height="42" rx="10" fill="#4493f8" fill-opacity="0.14"/>
+    <g transform="translate(687.0 39.0) scale(1.0)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
         <path class="i i1" pathLength="1" d="M12 2.5l9 5-9 5-9-5z"/>
         <path class="i i1" pathLength="1" d="M3 12l9 5 9-5"/>
         <path class="i i1" pathLength="1" d="M3 16.5l9 5 9-5"/>
     </g>
-    <text class="t" x="752.0" y="69.5" font-size="30" font-weight="600" fill="#f0f6fc">Internal platforms</text>
+    <text class="t" x="736.0" y="61.5" font-size="30" font-weight="600" fill="#f0f6fc">Internal platforms</text>
     <text class="t" x="678.0" y="128" font-size="25" fill="#9198a1">Containerized services that connect business</text>
     <text class="t" x="678.0" y="161" font-size="25" fill="#9198a1">systems through authenticated APIs.</text>
   </g>
   <g>
     <rect x="0.5" y="203.5" width="631.0" height="186" rx="14" fill="#151b23" stroke="#3d444d"/>
     <rect x="0.5" y="203.5" width="631.0" height="186" rx="14" fill="url(#grid)" mask="url(#gm)"/>
-    <rect x="30.0" y="233" width="58" height="58" rx="12" fill="#4493f8" fill-opacity="0.14"/>
-    <g transform="translate(43.0 246.0) scale(1.3333333333333333)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30.0" y="233" width="42" height="42" rx="10" fill="#4493f8" fill-opacity="0.14"/>
+    <g transform="translate(39.0 242.0) scale(1.0)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
         <path class="i i2" pathLength="1" d="M3 21h18"/>
         <path class="i i2" pathLength="1" d="M7 17v-5"/>
         <path class="i i2" pathLength="1" d="M12 17V6"/>
         <path class="i i2" pathLength="1" d="M17 17V9"/>
     </g>
-    <text class="t" x="104.0" y="272.5" font-size="30" font-weight="600" fill="#f0f6fc">Data and reporting</text>
+    <text class="t" x="88.0" y="264.5" font-size="30" font-weight="600" fill="#f0f6fc">Data and reporting</text>
     <text class="t" x="30.0" y="331" font-size="25" fill="#9198a1">Pipelines and dashboards for cost allocation</text>
     <text class="t" x="30.0" y="364" font-size="25" fill="#9198a1">and day-to-day reporting.</text>
   </g>
   <g>
     <rect x="648.5" y="203.5" width="631.0" height="186" rx="14" fill="#151b23" stroke="#3d444d"/>
     <rect x="648.5" y="203.5" width="631.0" height="186" rx="14" fill="url(#grid)" mask="url(#gm)"/>
-    <rect x="678.0" y="233" width="58" height="58" rx="12" fill="#4493f8" fill-opacity="0.14"/>
-    <g transform="translate(691.0 246.0) scale(1.3333333333333333)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="678.0" y="233" width="42" height="42" rx="10" fill="#4493f8" fill-opacity="0.14"/>
+    <g transform="translate(687.0 242.0) scale(1.0)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
         <path class="i i3" pathLength="1" d="M7.5 6a2.5 2.5 0 1 1-5 0a2.5 2.5 0 1 1 5 0"/>
         <path class="i i3" pathLength="1" d="M7.5 18a2.5 2.5 0 1 1-5 0a2.5 2.5 0 1 1 5 0"/>
         <path class="i i3" pathLength="1" d="M21.5 12a2.5 2.5 0 1 1-5 0a2.5 2.5 0 1 1 5 0"/>
         <path class="i i3" pathLength="1" d="M7.5 6c5 0 4 6 9 6"/>
         <path class="i i3" pathLength="1" d="M7.5 18c5 0 4-6 9-6"/>
     </g>
-    <text class="t" x="752.0" y="272.5" font-size="30" font-weight="600" fill="#f0f6fc">Workflow automation</text>
+    <text class="t" x="736.0" y="264.5" font-size="30" font-weight="600" fill="#f0f6fc">Workflow automation</text>
     <text class="t" x="678.0" y="331" font-size="25" fill="#9198a1">Email triage, routing and task coordination,</text>
     <text class="t" x="678.0" y="364" font-size="25" fill="#9198a1">with people making the calls.</text>
   </g>
   <g>
     <rect x="0.5" y="406.5" width="631.0" height="186" rx="14" fill="#151b23" stroke="#3d444d"/>
     <rect x="0.5" y="406.5" width="631.0" height="186" rx="14" fill="url(#grid)" mask="url(#gm)"/>
-    <rect x="30.0" y="436" width="58" height="58" rx="12" fill="#4493f8" fill-opacity="0.14"/>
-    <g transform="translate(43.0 449.0) scale(1.3333333333333333)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30.0" y="436" width="42" height="42" rx="10" fill="#4493f8" fill-opacity="0.14"/>
+    <g transform="translate(39.0 445.0) scale(1.0)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
         <path class="i i4" pathLength="1" d="M5 3h14a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/>
         <path class="i i4" pathLength="1" d="M3 7h18"/>
         <path class="i i4" pathLength="1" d="M12 17v4"/>
         <path class="i i4" pathLength="1" d="M8 21h8"/>
     </g>
-    <text class="t" x="104.0" y="475.5" font-size="30" font-weight="600" fill="#f0f6fc">Full-stack apps</text>
+    <text class="t" x="88.0" y="467.5" font-size="30" font-weight="600" fill="#f0f6fc">Full-stack apps</text>
     <text class="t" x="30.0" y="534" font-size="25" fill="#9198a1">Web and mobile apps for residents and staff,</text>
     <text class="t" x="30.0" y="567" font-size="25" fill="#9198a1">from database to interface.</text>
   </g>
   <g>
     <rect x="648.5" y="406.5" width="631.0" height="186" rx="14" fill="#151b23" stroke="#3d444d"/>
     <rect x="648.5" y="406.5" width="631.0" height="186" rx="14" fill="url(#grid)" mask="url(#gm)"/>
-    <rect x="678.0" y="436" width="58" height="58" rx="12" fill="#4493f8" fill-opacity="0.14"/>
-    <g transform="translate(691.0 449.0) scale(1.3333333333333333)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="678.0" y="436" width="42" height="42" rx="10" fill="#4493f8" fill-opacity="0.14"/>
+    <g transform="translate(687.0 445.0) scale(1.0)" fill="none" stroke="#4493f8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
         <path class="i i5" pathLength="1" d="M12 2.5l8 3v6c0 5-3.4 8.6-8 10-4.6-1.4-8-5-8-10v-6z"/>
         <path class="i i5" pathLength="1" d="M8.5 12l2.5 2.5 4.5-5"/>
     </g>
-    <text class="t" x="752.0" y="475.5" font-size="30" font-weight="600" fill="#f0f6fc">Reliability and security</text>
+    <text class="t" x="736.0" y="467.5" font-size="30" font-weight="600" fill="#f0f6fc">Reliability and security</text>
     <text class="t" x="678.0" y="534" font-size="25" fill="#9198a1">Authentication, monitoring and hardened</text>
     <text class="t" x="678.0" y="567" font-size="25" fill="#9198a1">deployments for internal systems.</text>
   </g>
