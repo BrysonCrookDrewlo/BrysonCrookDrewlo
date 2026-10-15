@@ -40,9 +40,15 @@
         <path class="w" d="M328 112h16m16 0h16m16 0h16M328 144h16m16 0h16m16 0h16M328 176h16m16 0h16m16 0h16M328 208h16m16 0h16m16 0h16M328 240h16m16 0h16m16 0h16M328 272h16m16 0h16m16 0h16"/>
       </g>
     </g>
-    <rect x="80" y="104" width="40" height="4" rx="2" fill="#4493f8"/>
-    <text class="t" x="80" y="176" font-size="60" font-weight="600" letter-spacing="-1" fill="#f0f6fc">Bryson Crook</text>
-    <text class="t" x="80" y="222" font-size="24" fill="#9198a1">Software Engineer · Drewlo Holdings</text>
+    <rect x="80" y="72" width="40" height="4" rx="2" fill="#4493f8"/>
+    <text class="t" x="80" y="144" font-size="60" font-weight="600" letter-spacing="-1" fill="#f0f6fc">Bryson Crook</text>
+    <text class="t" x="80" y="188" font-size="24" fill="#9198a1">Software Engineer · Drewlo Holdings</text>
+    <rect x="80.5" y="218.5" width="265.0" height="41" rx="21.0" fill="#0d1117" stroke="#3d444d"/>
+    <g transform="translate(94 230.0) scale(0.7500)" fill="none" stroke="#4493f8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4a8 8 0 1 0 0 16a8 8 0 1 0 0-16"/><path d="M12 9a3 3 0 1 0 0 6a3 3 0 1 0 0-6"/></g>
+    <text class="t" x="121" y="245.84" font-size="19" fill="#f0f6fc">AI · Data · Automation</text>
+    <rect x="356.5" y="218.5" width="236.5" height="41" rx="21.0" fill="#0d1117" stroke="#3d444d"/>
+    <g transform="translate(370.0 230.0) scale(0.7500)" fill="none" stroke="#4493f8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/></g>
+    <text class="t" x="397.0" y="245.84" font-size="19" fill="#f0f6fc">B.Eng. Western 2025</text>
     <rect x="0.5" y="0.5" width="1279" height="319" rx="16" fill="none" stroke="#3d444d"/>
   </g>
 </svg>
