@@ -1,39 +1,33 @@
-![Profile Banner](assets/banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Bryson Crook, Software Engineer at Drewlo Holdings" src="assets/banner-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <a href="mailto:bcrook@drewloholdings.com">
-    <img src="https://img.shields.io/badge/Email-bcrook%40drewloholdings.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I build the internal software that runs day-to-day operations at **Drewlo Holdings**, a property management and construction company: self-hosted AI, internal platforms, and the data and automation behind the business.
 
-**Software Engineer @ Drewlo Holdings** · B.Eng. Software Engineering, Western University (2025)
+B.Eng. Software Engineering, Western University (2025). Most of my work lives in private repositories.
 
-I build automation systems and data platforms that run daily operations for a property management and construction company managing thousands of residential units. Most of my production work ships to private enterprise repos.
+### What I work on
 
----
+- **Self-hosted AI.** Speech, language models and assistant tools that run on our own hardware, so company data never leaves the building.
+- **Internal platforms.** A suite of containerized services that connect business systems behind clean, authenticated APIs.
+- **Data and reporting.** Pipelines and dashboards that turn construction and property data into cost allocation and day-to-day reporting.
+- **Workflow automation.** Email triage, routing and task coordination, with AI doing the sorting and people making the calls.
+- **Full-stack apps.** Web and mobile apps for residents and staff, built end to end.
 
-## Tech Stack
+### How I work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-</p>
+- **Data stays in-house.** If a system can run on our own hardware, it does.
+- **Nothing is invented to fill a gap.** When the data isn't there, the software says so instead of guessing.
+- **Failures are loud.** A broken dependency is an error, never a silent fallback.
 
----
+### Stack
 
-## What I Build
+**Languages**&nbsp; Python · TypeScript · SQL<br>
+**Backend**&nbsp; FastAPI · Node.js · SQL Server · PostgreSQL<br>
+**Frontend**&nbsp; React · Next.js · Tailwind CSS<br>
+**Infrastructure**&nbsp; Docker · Kubernetes · Azure · Linux · on-prem GPUs
 
-**Data & Analytics** — Real-time operational dashboards, automated cost-allocation reports, and business intelligence pipelines that transform construction and property management data into actionable insights.
+### Contact
 
-**Microservice Platform** — Event-driven platform (7+ FastAPI services) handling email integration, meta-search, document generation, web scraping, and ticket management. Containerized with Docker, deployed on Azure.
-
-**AI & LLM Integration** — Suite of purpose-built tools for a self-hosted AI platform, connecting internal datasets, government APIs, and third-party services into a unified conversational interface.
-
-**Full-Stack Applications** — Tenant-facing web applications and internal productivity tools built with Next.js and FastAPI, featuring mapping, real-time data sync, and intelligent classification.
-
-**Workflow Automation** — End-to-end processing pipelines for email triage, site reporting, and task coordination using n8n orchestration with AI-powered categorization and routing.
+[bcrook@drewloholdings.com](mailto:bcrook@drewloholdings.com)
