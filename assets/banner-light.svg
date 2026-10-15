@@ -1,30 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Bryson Crook, Software Engineer at Drewlo Holdings">
+  <style>
+    .t{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+    .grid{animation:appear .8s ease-out both}
+    .b{stroke-dasharray:1;animation:draw 1.4s cubic-bezier(.33,0,.2,1) both}
+    .b0{animation-delay:0.00s}
+    .b1{animation-delay:0.15s}
+    .b2{animation-delay:0.30s}
+    .b3{animation-delay:0.45s}
+    .b4{animation-delay:0.60s}
+    .w{animation:appear .6s ease-out 1.5s both}
+    @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+    @keyframes appear{from{opacity:0}to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.grid,.b,.w{animation:none}}
+  </style>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#1f6feb" stroke-opacity="0.10" stroke-width="1"/>
     </pattern>
-    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0.30" stop-color="#fff" stop-opacity="0"/>
+    <linearGradient id="artFade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.3" stop-color="#fff" stop-opacity="0"/>
       <stop offset="0.75" stop-color="#fff" stop-opacity="1"/>
     </linearGradient>
-    <mask id="m"><rect width="1280" height="320" fill="url(#fade)"/></mask>
+    <mask id="m"><rect width="1280" height="320" fill="url(#artFade)"/></mask>
     <clipPath id="card"><rect width="1280" height="320" rx="16"/></clipPath>
   </defs>
   <g clip-path="url(#card)">
     <rect width="1280" height="320" fill="#f6f8fa"/>
     <g mask="url(#m)">
-      <rect width="1280" height="320" fill="url(#grid)"/>
-      <g fill="none" stroke="#1f6feb" stroke-width="1.5" stroke-opacity="0.55" stroke-linejoin="round">
-        <path d="M800 320V176h96v144M896 320V120h128v200M1024 320V200h80v120M1104 320V88h112v232M1216 320V160h64"/>
-        <path d="M824 200h16m16 0h16M824 232h16m16 0h16M824 264h16m16 0h16"/>
-        <path d="M920 144h16m16 0h16m16 0h16M920 176h16m16 0h16m16 0h16M920 208h16m16 0h16m16 0h16M920 240h16m16 0h16m16 0h16M920 272h16m16 0h16m16 0h16"/>
-        <path d="M1040 224h16m16 0h16M1040 256h16m16 0h16"/>
-        <path d="M1128 112h16m16 0h16m16 0h16M1128 144h16m16 0h16m16 0h16M1128 176h16m16 0h16m16 0h16M1128 208h16m16 0h16m16 0h16M1128 240h16m16 0h16m16 0h16M1128 272h16m16 0h16m16 0h16"/>
+      <rect class="grid" width="1280" height="320" fill="url(#grid)"/>
+      <g transform="translate(800 0) scale(1)" fill="none" stroke="#1f6feb" stroke-width="1.5" stroke-opacity="0.55" stroke-linejoin="round">
+        <path class="b b0" pathLength="1" d="M0 320V176h96v144"/>
+        <path class="b b1" pathLength="1" d="M96 320V120h128v200"/>
+        <path class="b b2" pathLength="1" d="M224 320V200h80v120"/>
+        <path class="b b3" pathLength="1" d="M304 320V88h112v232"/>
+        <path class="b b4" pathLength="1" d="M416 320V160h64"/>
+        <path class="w" d="M24 200h16m16 0h16M24 232h16m16 0h16M24 264h16m16 0h16"/>
+        <path class="w" d="M120 144h16m16 0h16m16 0h16M120 176h16m16 0h16m16 0h16M120 208h16m16 0h16m16 0h16M120 240h16m16 0h16m16 0h16M120 272h16m16 0h16m16 0h16"/>
+        <path class="w" d="M240 224h16m16 0h16M240 256h16m16 0h16"/>
+        <path class="w" d="M328 112h16m16 0h16m16 0h16M328 144h16m16 0h16m16 0h16M328 176h16m16 0h16m16 0h16M328 208h16m16 0h16m16 0h16M328 240h16m16 0h16m16 0h16M328 272h16m16 0h16m16 0h16"/>
       </g>
     </g>
     <rect x="80" y="104" width="40" height="4" rx="2" fill="#1f6feb"/>
-    <text x="80" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="60" font-weight="600" letter-spacing="-1" fill="#1f2328">Bryson Crook</text>
-    <text x="80" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="24" fill="#59636e">Software Engineer · Drewlo Holdings</text>
+    <text class="t" x="80" y="176" font-size="60" font-weight="600" letter-spacing="-1" fill="#1f2328">Bryson Crook</text>
+    <text class="t" x="80" y="222" font-size="24" fill="#59636e">Software Engineer · Drewlo Holdings</text>
     <rect x="0.5" y="0.5" width="1279" height="319" rx="16" fill="none" stroke="#d1d9e0"/>
   </g>
 </svg>
