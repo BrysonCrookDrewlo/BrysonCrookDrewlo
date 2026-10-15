@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Bryson Crook, Software Engineer at Drewlo Holdings">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Bryson Crook, Software Engineer at Drewlo Holdings. AI, data and automation. B.Eng., Western University, 2025.">
   <style>
     .t{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
     .grid{animation:appear .8s ease-out both}
     .b{stroke-dasharray:1;animation:draw 1.4s cubic-bezier(.33,0,.2,1) both}
     .b0{animation-delay:0.00s}
-    .b1{animation-delay:0.15s}
-    .b2{animation-delay:0.30s}
-    .b3{animation-delay:0.45s}
-    .b4{animation-delay:0.60s}
+    .b1{animation-delay:0.12s}
+    .b2{animation-delay:0.24s}
+    .b3{animation-delay:0.36s}
+    .b4{animation-delay:0.48s}
+    .b5{animation-delay:0.60s}
+    .b6{animation-delay:0.72s}
+    .b7{animation-delay:0.84s}
+    .b8{animation-delay:0.96s}
+    .b9{animation-delay:1.08s}
+    .b10{animation-delay:1.20s}
     .w{animation:appear .6s ease-out 1.5s both}
     @keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
     @keyframes appear{from{opacity:0}to{opacity:1}}
@@ -18,8 +24,8 @@
       <path d="M32 0H0V32" fill="none" stroke="#1f6feb" stroke-opacity="0.10" stroke-width="1"/>
     </pattern>
     <linearGradient id="artFade" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0.3" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.75" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.66" stop-color="#fff" stop-opacity="1"/>
     </linearGradient>
     <mask id="m"><rect width="1280" height="320" fill="url(#artFade)"/></mask>
     <clipPath id="card"><rect width="1280" height="320" rx="16"/></clipPath>
@@ -28,27 +34,34 @@
     <rect width="1280" height="320" fill="#f6f8fa"/>
     <g mask="url(#m)">
       <rect class="grid" width="1280" height="320" fill="url(#grid)"/>
-      <g transform="translate(800 0) scale(1)" fill="none" stroke="#1f6feb" stroke-width="1.5" stroke-opacity="0.55" stroke-linejoin="round">
-        <path class="b b0" pathLength="1" d="M0 320V176h96v144"/>
-        <path class="b b1" pathLength="1" d="M96 320V120h128v200"/>
-        <path class="b b2" pathLength="1" d="M224 320V200h80v120"/>
-        <path class="b b3" pathLength="1" d="M304 320V88h112v232"/>
-        <path class="b b4" pathLength="1" d="M416 320V160h64"/>
-        <path class="w" d="M24 200h16m16 0h16M24 232h16m16 0h16M24 264h16m16 0h16"/>
-        <path class="w" d="M120 144h16m16 0h16m16 0h16M120 176h16m16 0h16m16 0h16M120 208h16m16 0h16m16 0h16M120 240h16m16 0h16m16 0h16M120 272h16m16 0h16m16 0h16"/>
-        <path class="w" d="M240 224h16m16 0h16M240 256h16m16 0h16"/>
-        <path class="w" d="M328 112h16m16 0h16m16 0h16M328 144h16m16 0h16m16 0h16M328 176h16m16 0h16m16 0h16M328 208h16m16 0h16m16 0h16M328 240h16m16 0h16m16 0h16M328 272h16m16 0h16m16 0h16"/>
+      <g transform="translate(790 0) scale(1)" fill="none" stroke="#1f6feb" stroke-width="1.6" stroke-opacity="0.8" stroke-linejoin="round" stroke-linecap="round">
+        <path class="b b0" pathLength="1" d="M0 320V190h90V320"/>
+        <path class="b b1" pathLength="1" d="M90 320V130h120V320"/>
+        <path class="b b2" pathLength="1" d="M210 320V215h70V320"/>
+        <path class="b b3" pathLength="1" d="M280 320V100h100V320"/>
+        <path class="b b4" pathLength="1" d="M380 320V170h70V320"/>
+        <path class="b b5" pathLength="1" d="M228 215V44M242 215V44"/>
+        <path class="b b6" pathLength="1" d="M228 200l14-14M228 172l14-14M228 144l14-14M228 116l14-14M228 88l14-14M228 60l14-14"/>
+        <path class="b b7" pathLength="1" d="M150 52h290M150 64h78M242 64h198"/>
+        <path class="b b8" pathLength="1" d="M228 44l7-20 7 20M235 24L156 52M235 24L420 52"/>
+        <path class="b b9" pathLength="1" d="M156 52h20v18h-20z"/>
+        <path class="b b10" pathLength="1" d="M380 64v58M372 122h16v10h-16z"/>
+        <path class="w" stroke-opacity=".7" d="M16 214h12M40 214h12M64 214h12M16 244h12M40 244h12M64 244h12M16 274h12M40 274h12M64 274h12"/>
+        <path class="w" stroke-opacity=".7" d="M106 154h12M130 154h12M154 154h12M178 154h12M106 184h12M130 184h12M154 184h12M178 184h12M106 214h12M130 214h12M154 214h12M178 214h12M106 244h12M130 244h12M154 244h12M178 244h12M106 274h12M130 274h12M154 274h12M178 274h12"/>
+        <path class="w" stroke-opacity=".7" d="M226 239h12M250 239h12M226 269h12M250 269h12M226 299h12M250 299h12"/>
+        <path class="w" stroke-opacity=".7" d="M296 124h12M320 124h12M344 124h12M296 154h12M320 154h12M344 154h12M296 184h12M320 184h12M344 184h12M296 214h12M320 214h12M344 214h12M296 244h12M320 244h12M344 244h12M296 274h12M320 274h12M344 274h12"/>
+        <path class="w" stroke-opacity=".7" d="M396 194h12M420 194h12M396 224h12M420 224h12M396 254h12M420 254h12M396 284h12M420 284h12"/>
       </g>
     </g>
-    <rect x="80" y="72" width="40" height="4" rx="2" fill="#1f6feb"/>
-    <text class="t" x="80" y="144" font-size="60" font-weight="600" letter-spacing="-1" fill="#1f2328">Bryson Crook</text>
-    <text class="t" x="80" y="188" font-size="24" fill="#59636e">Software Engineer · Drewlo Holdings</text>
-    <rect x="80.5" y="218.5" width="265.0" height="41" rx="21.0" fill="#ffffff" stroke="#d1d9e0"/>
-    <g transform="translate(94 230.0) scale(0.7500)" fill="none" stroke="#1f6feb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4a8 8 0 1 0 0 16a8 8 0 1 0 0-16"/><path d="M12 9a3 3 0 1 0 0 6a3 3 0 1 0 0-6"/></g>
-    <text class="t" x="121" y="245.84" font-size="19" fill="#1f2328">AI · Data · Automation</text>
-    <rect x="356.5" y="218.5" width="236.5" height="41" rx="21.0" fill="#ffffff" stroke="#d1d9e0"/>
-    <g transform="translate(370.0 230.0) scale(0.7500)" fill="none" stroke="#1f6feb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/></g>
-    <text class="t" x="397.0" y="245.84" font-size="19" fill="#1f2328">B.Eng. Western 2025</text>
+    <rect x="40" y="70" width="40" height="4" rx="2" fill="#1f6feb"/>
+    <text class="t" x="40" y="146" font-size="68" font-weight="600" letter-spacing="-1" fill="#1f2328">Bryson Crook</text>
+    <text class="t" x="40" y="192" font-size="25" fill="#59636e">Software Engineer · Drewlo Holdings</text>
+    <rect x="40.5" y="222.5" width="265.0" height="41" rx="21.0" fill="#ffffff" stroke="#d1d9e0"/>
+    <g transform="translate(54 234.0) scale(0.7500)" fill="none" stroke="#1f6feb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4a8 8 0 1 0 0 16a8 8 0 1 0 0-16"/><path d="M12 9a3 3 0 1 0 0 6a3 3 0 1 0 0-6"/></g>
+    <text class="t" x="81" y="249.84" font-size="19" fill="#1f2328">AI · Data · Automation</text>
+    <rect x="316.5" y="222.5" width="236.5" height="41" rx="21.0" fill="#ffffff" stroke="#d1d9e0"/>
+    <g transform="translate(330.0 234.0) scale(0.7500)" fill="none" stroke="#1f6feb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/></g>
+    <text class="t" x="357.0" y="249.84" font-size="19" fill="#1f2328">B.Eng. Western 2025</text>
     <rect x="0.5" y="0.5" width="1279" height="319" rx="16" fill="none" stroke="#d1d9e0"/>
   </g>
 </svg>
